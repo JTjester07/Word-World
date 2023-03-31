@@ -6,4 +6,4 @@ All the code is also done in C#.
 
 If you would like to play the game yourself, go to https://mrcrazie101.github.io/WordWorld_Playable/
 
-By Jaden Jester and Abram Hubbard
+By Jaden J. and Abram H.
