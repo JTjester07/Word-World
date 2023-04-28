@@ -5,6 +5,6 @@ The entirety of Word World was made in Unity, and all the assets and scripts in 
 All the code is also done in C#.
 
 Game:
-https://mrcrazie101.github.io/WordWorld_Playable/
+https://mrcrazie101.github.io/WordWorld_WebGL/
 
 By Jaden J. and Abram H.
