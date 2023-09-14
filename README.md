@@ -1,8 +1,12 @@
 # Word World
 
-Word World is a 2D puzzle platformer where you assemble words to interact with the world and complete levels.
-The entirety of Word World was made in Unity, and all the assets and scripts in the game are here, ported directly from Unity.
+Word World is a Puzzle Platformer where you build words to change the world.
+The player must come up with creative words that will give them the edge
+to move around the level and reach the end goal.
 
-Word World is my first game, and was made in a week.
+This branch contains all the assests of Word World ported directly from Unity,
+the game engine it was made in.
 
-By Jaden J. and Abram H.
+Word World was my first game, and it was done in a week for the Computer Game
+and Simulation Programming competition for FBLA regionals in Arizona, and it
+won 2nd place. This would be the start of my game development journey.
